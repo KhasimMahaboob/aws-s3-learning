@@ -47,9 +47,6 @@ This project demonstrates how Amazon S3 can be used to securely store and manage
 - Bucket Policy
 - Block Public Access
 
-## 📷 Screenshots
-
-(Add your screenshots here.)
 
 ## ✅ Outcome
 
